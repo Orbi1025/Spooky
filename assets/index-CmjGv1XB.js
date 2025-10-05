@@ -13562,7 +13562,7 @@ const M0 = () => (
             }),
           }),
           H.jsx("a", {
-            href: "https://x.com/scarybyfurie",
+            href: "https://x.com/SpookyBoys_bsc",
             target: "_blank",
             className: "twitter-icon hidden-sm",
             children: H.jsx(em, {}),
