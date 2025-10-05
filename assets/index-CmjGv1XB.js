@@ -13554,7 +13554,7 @@ const M0 = () => (
                   className: "nav-item",
                   children: H.jsx("a", {
                     className: "nav-link",
-                    href: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon",
+                    href: "https://pancakeswap.finance/swap?outputCurrency=0x856340E1Abd24bd8f91262f298aab0e9ac861C8C",
                     children: "Buy Now",
                   }),
                 }),
@@ -13573,7 +13573,7 @@ const M0 = () => (
   ),
   I0 = () => {
     const [e, t] = zr.useState(!1),
-      n = "0xcomingsoon";
+      n = "0x856340E1Abd24bd8f91262f298aab0e9ac861C8C";
     return (
       zr.useEffect(() => {
         e &&
