@@ -13500,7 +13500,7 @@ const M0 = () => (
           H.jsx("a", {
             className: "navbar-brand",
             href: "#",
-            children: "$SPOOKY",
+            children: "$SPOOKYBOYS",
           }),
           H.jsx("button", {
             className: "navbar-toggler",
@@ -13906,7 +13906,7 @@ const H0 = "/assets/barra1-DrYCQTlj.gif",
           children: [
             H.jsx("h1", {
               className: "about-title",
-              children: "Spooky",
+              children: "Spooky Boys",
             }),
             H.jsxs("div", {
               className: "about-cards",
@@ -13918,7 +13918,7 @@ const H0 = "/assets/barra1-DrYCQTlj.gif",
                     className:
                       "img-fluid hidden img-animate primeraseccion visible img-visible",
                   }),
-                  text: "This Halloween, the Boys Club is not just dressing up—they're becoming the legends of horror. Andy wraps himself in ancient curses as Andy the Mummy, Brett is reborn as the towering Frankenstein’s Monster, Landwolf unleashes his wild side as Landwolf the Werewolf, and Pepe rises from the depths as Pepe the Swamp Monster. Together, they’re set to bring mayhem and thrill to the season. Get ready to join the Spooky as they rule the night in monstrous fashion!",
+                  text: "This Halloween, the Boys Club is not just dressing up—they're becoming the legends of horror. Andy wraps himself in ancient curses as Andy the Mummy, Brett is reborn as the towering Frankenstein’s Monster, Landwolf unleashes his wild side as Landwolf the Werewolf, and Pepe rises from the depths as Pepe the Swamp Monster. Together, they’re set to bring mayhem and thrill to the season. Get ready to join the Spooky Boys as they rule the night in monstrous fashion!",
                 }),
                 H.jsx(Mp, {
                   img: H.jsx("img", {
@@ -13927,7 +13927,7 @@ const H0 = "/assets/barra1-DrYCQTlj.gif",
                     className: "img-fluid hidden primeraseccion",
                   }),
                   reverse: !0,
-                  text: "Halloween night will never be the same with the Spooky on the loose. Whether it’s Andy the Mummy stalking for treasure, Frankenstein Brett sparking chaos, Landwolf the Werewolf hunting under the full moon, or Pepe the Swamp Monster lurking in the shadows, the boys are turning every corner into a fright fest. The streets will be alive with howls, croaks, and laughter—are you brave enough to join their spooky adventure? Enter if you dare!",
+                  text: "Halloween night will never be the same with the Spooky Boys on the loose. Whether it’s Andy the Mummy stalking for treasure, Frankenstein Brett sparking chaos, Landwolf the Werewolf hunting under the full moon, or Pepe the Swamp Monster lurking in the shadows, the boys are turning every corner into a fright fest. The streets will be alive with howls, croaks, and laughter—are you brave enough to join their Spooky Boys adventure? Enter if you dare!",
                 }),
               ],
             }),
@@ -14091,7 +14091,7 @@ const H0 = "/assets/barra1-DrYCQTlj.gif",
                 H.jsx("div", {
                   className: "col-12 col-md-4 social",
                   children: H.jsx("a", {
-                    href: "https://x.com/SpookyonBsc",
+                    href: "https://x.com/SpookyBoys_bsc",
                     target: "_blank",
                     rel: "noreferrer",
                     children: H.jsx(em, { className: "social-icon" }),
@@ -14100,7 +14100,7 @@ const H0 = "/assets/barra1-DrYCQTlj.gif",
                 H.jsx("div", {
                   className: "col-12 col-md-4 social",
                   children: H.jsx("a", {
-                    href: "https://t.me/SpookyonBsc",
+                    href: "https://t.me/SpookyBoys_bsc",
                     target: "_blank",
                     rel: "noreferrer",
                     children: H.jsx(D0, { className: "social-icon" }),
@@ -14115,9 +14115,9 @@ const H0 = "/assets/barra1-DrYCQTlj.gif",
                 children: H.jsxs("p", {
                   className: "textcopy",
                   children: [
-                    "$SPOOKY is a meme coin with no intrinsic value and doesn't guarantee a financial return; its value is determined by the global community. Content on this website is for entertainment only and not financial advice. Engage at your own risk, as purchasing or selling tokens involves potential losses and high volatility. Always consult local laws before transacting in cryptocurrencies.",
+                    "$SPOOKYBOYS is a meme coin with no intrinsic value and doesn't guarantee a financial return; its value is determined by the global community. Content on this website is for entertainment only and not financial advice. Engage at your own risk, as purchasing or selling tokens involves potential losses and high volatility. Always consult local laws before transacting in cryptocurrencies.",
                     H.jsx("br", {}),
-                    "Copyright $SPOOKY © 2025 - All Rights Reserved.",
+                    "Copyright $SPOOKYBOYS © 2025 - All Rights Reserved.",
                   ],
                 }),
               }),
